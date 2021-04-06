@@ -1024,7 +1024,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'Goal: Go against an enemy that would react actions taken by the player.'
+  m_Text: 'Goal: Get closer to the enemy reacting enemy while trying to avoid the
+    projectiles.'
 --- !u!222 &419326547
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1080,7 +1081,7 @@ Camera:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 1
+    width: 4
     height: 1
   near clip plane: 0.3
   far clip plane: 1000
